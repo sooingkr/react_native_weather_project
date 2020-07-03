@@ -1,2 +1,2 @@
-# react_native_movie_project
-react_native_movie_project study
+# react_native_weather_project
+react_native_weather_project study
